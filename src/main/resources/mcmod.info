@@ -1,0 +1,16 @@
+[
+{
+  "modid": "illusionindex",
+  "name": "IllusionIndex",
+  "description": "Reveals invisible players: renders them as semi-transparent, configurable-color silhouettes (no skin), with optional afterimage trails, chat spotting and a fully shader-driven settings GUI. Client-side only.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EndWithMe"],
+  "credits": "EndWithMe - IllusionIndex.",
+  "logoFile": "assets/illusionindex/textures/icons/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]

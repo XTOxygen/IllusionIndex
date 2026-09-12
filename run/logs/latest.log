@@ -1,0 +1,21 @@
+[20:12:58] [Client thread/INFO]: Setting user: Player281
+[20:13:01] [Client thread/INFO]: LWJGL Version: 2.9.4
+[20:13:06] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:IllusionIndex
+[20:13:06] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:13:07] [Thread-8/INFO]: Initializing LWJGL OpenAL
+[20:13:07] [Thread-8/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:13:07] [Thread-8/INFO]: OpenAL initialized.
+[20:13:07] [Sound Library Loader/INFO]: Sound engine started
+[20:13:13] [Client thread/INFO]: Created: 16x16 textures-atlas
+[20:13:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:IllusionIndex
+[20:13:15] [Client thread/INFO]: SoundSystem shutting down...
+[20:13:15] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:13:15] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:13:15] [Thread-10/INFO]: Initializing LWJGL OpenAL
+[20:13:15] [Thread-10/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:13:15] [Thread-10/INFO]: OpenAL initialized.
+[20:13:15] [Sound Library Loader/INFO]: Sound engine started
+[20:13:22] [Client thread/INFO]: Created: 512x512 textures-atlas
+[20:13:28] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[20:13:33] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
+[20:14:01] [Client thread/WARN]: Unable to play unknown soundEvent: minecraft:music.menu
